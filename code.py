@@ -30,14 +30,14 @@ keyboard.keymap = [
      KC.P7,   KC.P8,   KC.P9,   KC.F13,  KC.F15,  KC.F16,  KC.F17,
      KC.P4,   KC.P5,   KC.P6,   KC.F14,  KC.F18,  KC.F19,  KC.F20,
      KC.P1,   KC.P2,   KC.P3,   KC.PPLS, KC.F21,  KC.F22,  KC.F23,
-     LAY1,    KC.P0,   KC.PDOT, KC.NENT, OS_CPY,  OS_PST,  OS_UND,
+     LAY1,    KC.P0,   KC.PDOT, KC.PENT, OS_CPY,  OS_PST,  OS_UND,
     ],
     [
-     KC.N1, KC.N2, KC.N3, KC.N4, KC.N5, KC.N6, KC.N7,
-     KC.A, KC.B, KC.C, KC.D, KC.E, KC.F, KC.G,
-     KC.H, KC.I, KC.J, KC.K, KC.L, KC.M, KC.N,
-     KC.O, KC.P, KC.Q, KC.R, KC.S, KC.T, KC.U,
-     XXXXXXX, KC.W, KC.X, KC.Y, KC.Z, KC.N8,KC.N9,
+     KC.N1,   KC.N2, KC.N3, KC.N4, KC.N5, KC.N6, KC.N7,
+     KC.A,    KC.B,  KC.C,  KC.D,  KC.E,  KC.F,  KC.G,
+     KC.H,    KC.I,  KC.J,  KC.K,  KC.L,  KC.M,  KC.N,
+     KC.O,    KC.P,  KC.Q,  KC.R,  KC.S,  KC.T,  KC.U,
+     XXXXXXX, KC.W,  KC.X,  KC.Y,  KC.Z,  KC.N8, KC.N9,
     ]
 ]
 
